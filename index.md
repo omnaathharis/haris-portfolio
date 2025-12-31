@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Work Projects 
 
 [Data Engineering](/sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Hobby Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -26,7 +26,8 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
+### Curriculam Projects
+[Great learning Projects](https://www.mygreatlearning.com/eportfolio/haris-ohmnaath-s-s)
 
 
 
