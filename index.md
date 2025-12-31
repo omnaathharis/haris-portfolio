@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Data Engineering](/sample_page)
+[Data Engineering](/sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
