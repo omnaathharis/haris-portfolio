@@ -6,8 +6,10 @@
 
 [Data Engineering](/sample_page.md)
 ---
-Design and implemented automated pipelines to transform,
-ingest and enrich raster data for efficiently managing 100+ TB's hazard data.
+Led Development of geospatial raster data transformation,ingestion,
+validation and enrichment for 100+TB's of data
+
+[![](hhttps://img.shields.io/badge/Python-white?logo=Python)](#)
 
 ---
 [Roof Top Object Detection](/pdf/sample_presentation.pdf)
