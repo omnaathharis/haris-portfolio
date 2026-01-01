@@ -3,8 +3,8 @@
 **Project description:**  Design and implemented automated pipelines to transform , ingest and enrich raster data for efficiently managing 100+ TB's hazard data. 
 
 ### Tech Stack 
-Python
-Postgres
+### Python
+### Postgres
 Azure Blob
 ADF
 Databricks
