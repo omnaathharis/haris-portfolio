@@ -1,16 +1,6 @@
-# Data Engineering
+## Data Engineering
 
-**Project description:**  Design and implemented automated pipelines to transform , ingest and enrich raster data for efficiently managing 100+ TB's hazard data. 
-
-### Tech Stack 
-Python
-Postgres
-Azure Blob
-ADF
-Databricks
-Unity Catalog
-Pyspark
-Sedona
+**Project description:**  The below description highlights 
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
