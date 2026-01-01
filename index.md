@@ -26,7 +26,7 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-### Curriculam Projects
+### Academic Projects
 [Great learning Projects](https://www.mygreatlearning.com/eportfolio/haris-ohmnaath-s-s)
 
 
