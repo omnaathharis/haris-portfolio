@@ -5,12 +5,11 @@
 ### Work Projects 
 
 [Data Engineering](/sample_page.md)
----
+
 Led Development of geospatial raster data transformation,ingestion,
 validation and enrichment for 100+TB's of data
 
-[![](https://img.shields.io/badge/Databricks-white?logo=databricks)](#)
-
+[![](https://img.shields.io/badge/Postgres-white?logo=postgresql)](#)[![](https://img.shields.io/badge/Python-white?logo=Python)](#)[![](https://img.shields.io/badge/Azure_batch-blue?logo=Azure)](#)[![](https://img.shields.io/badge/apache_sedona-blue?logo=apache)](#)
 ---
 [Roof Top Object Detection](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
