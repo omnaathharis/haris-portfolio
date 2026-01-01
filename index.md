@@ -9,7 +9,7 @@
 Led Development of geospatial raster data transformation,ingestion,
 validation and enrichment for 100+TB's of data
 
-[![](hhttps://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Databricks-white?logo=databricks)](#)
 
 ---
 [Roof Top Object Detection](/pdf/sample_presentation.pdf)
