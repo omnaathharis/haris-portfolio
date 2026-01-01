@@ -9,7 +9,7 @@
 Led Development of geospatial raster data transformation,ingestion,
 validation and enrichment for 100+TB's of data
 
-[![](https://img.shields.io/badge/Postgres-white?logo=postgresql)](#)[![](https://img.shields.io/badge/Python-white?logo=Python)](#)[![](https://img.shields.io/badge/Azure_batch-white?logo=Azure)](#)[![](https://img.shields.io/badge/apache_sedona-white?logo=apache)](#)
+[![](https://img.shields.io/badge/Postgres-white?logo=postgresql)](#)[![](https://img.shields.io/badge/Python-white?logo=Python)](#)[![](https://img.shields.io/badge/azure-blue?logo=cloudways)](#)[![](https://img.shields.io/badge/pyspark-white?logo=apachespark)](#)[![](https://img.shields.io/badge/Databricks-white?logo=databricks)](#)[![](https://img.shields.io/badge/gdal-white?logo=gdal)](#)[![](https://img.shields.io/badge/parqeut-white?logo=apacheparquet)](#)
 ---
 [Roof Top Object Detection](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
