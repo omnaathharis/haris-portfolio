@@ -5,7 +5,7 @@
 ### Work Projects 
 
 [Data Engineering](/sample_page.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Design and implemented automated pipelines to transform , ingest and enrich raster data for efficiently managing 100+ TB's hazard data.
 
 ---
 [Roof Top Object Detection](/pdf/sample_presentation.pdf)
