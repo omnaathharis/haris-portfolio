@@ -1,35 +1,39 @@
 # Data Engineering
 
-**Project description:**  Design and implemented automated pipelines to transform , ingest and enrich raster data for efficiently managing 100+ TB's hazard data. 
+**Key Stats**
 
-### Tech Stack 
-### Python
-### Postgres
-Azure Blob
-ADF
-Databricks
-Unity Catalog
-Pyspark
-Sedona
+📊 150TB+| Transformed &rarr; Ingested   
+🔄 500TB+| Migrated from legacy storage systems to cloud   
+🎯 60TB+ | Data Aggregated  
+🗜️ 50%   | Compressed from Raw data  
+⚡ 50%   | Processing time reduction from Postgres  
+🔍 30%   | Query time improved with new schema  
 
-### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+
+### Xceedance (Oct2021 - Present)
 
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+timeline
+    title Project Release Timeline
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+    section Planning
+        Brainstorming : 2025-01-01 : 2025-01-15
+        Requirements Gathering : 2025-01-16 : 2025-01-31
+        Wireframing : 2025-02-01 : 2025-02-10
 
+    section Development
+        Task 1 : 2025-02-11 : 2025-03-15
+        Task 2 : 2025-03-16 : 2025-04-15
+        Testing : 2025-04-16 : 2025-04-30
+
+    section Deployment
+        Staging : 2025-05-01 : 2025-05-07
+        Production : 2025-05-08
+
+```
+---
 ### 2. Assess assumptions on which statistical inference will be based
 
 ```javascript
