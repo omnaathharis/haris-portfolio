@@ -25,7 +25,7 @@
 
 ### Multispectral Drone Image Processing    
 🚁 **MicaSense Multispectral Processing**   
-      Implemented end-to-end multispectral drone image processing using Pix4D to generate spectral reflectance maps from images
+      Implemented end-to-end multispectral drone image processing using Pix4D to generate ***spectral reflectance maps*** from images
 
 🌱 **Vegetation Health & NDVI Analysis**  
-      Generated vegetation health analysis maps from reflectance maps 
+      Generated ***vegetation health analysis maps*** from reflectance maps 
