@@ -1,6 +1,6 @@
 # Data Engineering
 
-**Key Stats**
+### Key Stats
 
 📊 150TB+| Transformed &rarr; Ingested   
 🔄 300TB+| Migrated from legacy storage systems to cloud   
@@ -8,6 +8,8 @@
 🗜️ 50%   | Compressed from Raw data  
 ⚡ 50%   | Processing time reduction from Postgres  
 🔍 30%   | Query time improved with new schema  
+
+[![](https://img.shields.io/badge/geospatial-blue)](#) [![](https://img.shields.io/badge/Riskmodelling-blue)](#) [![](https://img.shields.io/badge/dronedata-blue)](#) [![](https://img.shields.io/badge/hazard-blue)](#) 
 
 ## Xceedance (Oct2021 - Present)
 ### Data Pipeline & Migration  
