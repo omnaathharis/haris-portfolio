@@ -1,41 +1,39 @@
-# Data Engineering
+# Algorithm Development
 
-**Project description:**  Design and implemented automated pipelines to transform , ingest and enrich raster data for efficiently managing 100+ TB's hazard data. 
+### Key Stats
 
-### Tech Stack 
-### Python
-### Postgres
-Azure Blob
-ADF
-Databricks
-Unity Catalog
-Pyspark
-Sedona
-
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
+📁 >20+ | Projects executed successfully   
+👥 >10+ | Mentored team members  
+🌐 4+   | Diverse industry specific geospatial solution  
 
 
+[![](https://img.shields.io/badge/mining-blue)](#) [![](https://img.shields.io/badge/irrigation-blue)](#) [![](https://img.shields.io/badge/riskanalysis-blue)](#) [![](https://img.shields.io/badge/solar-blue)](#) [![](https://img.shields.io/badge/imageprocessing-blue)](#)
 
-### 4. Provide a basis for further data collection through surveys or experiments
+## Xceedance (Oct2021 - Present)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+💧 **Flood Modelling**  
+    Contributed to 2D flood modelling using HEC-RAS for US 
 
+🗺️ **GIS**
+    Contributed and mentored for multiple inhouse GIS/data engineering workflows. 
 
+## Aereo (June2018 - Oct2021)
+
+🚁 **Drone Data Processing**   
+    Led drone data processing for large areas  > 2000+ sqkm and delivered high resolution geospatial 2D/3D data products such as orthomosaic,DEM,Contours and point cloud/Mesh.  
+    Experimented multiple photogrammetry softwares for delivering high accuracy results.  
+    Setup distributed processing for speeding up execution.  
+
+📋 **Project and Stakefolder Management**    
+    Successfully delivered drone data solutions across diverse industries through comprehensive project management, field coordination, and client collaboration.  
+    Directed 10-member team while mentoring individuals, achieving successful project delivery.
+
+🚀 **Product Management**  
+    Led inhouse product development (RAINBOW) for end to end drone data handling.
+    Managed 2D & 3D data upload using Mapbox and Cesium ION
+
+## Prashant Surveys (May2017 - May2018)
+
+🚗 **LIDAR**  
+    Contributed to 3D feature extraction from LIDAR point clouds for road asset management.   
+    Developed DEM,TIN,contour data products from raw point cloud. 

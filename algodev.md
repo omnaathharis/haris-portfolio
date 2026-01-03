@@ -1,41 +1,40 @@
-# Data Engineering
+# Algorithm Development
 
-**Project description:**  Design and implemented automated pipelines to transform , ingest and enrich raster data for efficiently managing 100+ TB's hazard data. 
+### Key Stats
 
-### Tech Stack 
-### Python
-### Postgres
-Azure Blob
-ADF
-Databricks
-Unity Catalog
-Pyspark
-Sedona
-
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
+📈 >80% | Improved workflow efficiency  
+⚡ >80% | Processing speed achieved  
+🌐 4+   | Diverse industry specific geospatial solution
 
 
+[![](https://img.shields.io/badge/mining-blue)](#) [![](https://img.shields.io/badge/irrigation-blue)](#) [![](https://img.shields.io/badge/riskanalysis-blue)](#) [![](https://img.shields.io/badge/solar-blue)](#) [![](https://img.shields.io/badge/imageprocessing-blue)](#)
 
-### 4. Provide a basis for further data collection through surveys or experiments
+## Xceedance (Oct2021 - Present)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+🗺️ **Risk Analysis**  
+  Implemented dynamic grid based clustering algorithm for exposure aggregation
 
+## Aereo (June2018 - Oct2021)
+
+🛣️ **Automated Haul Road Characterization**  
+  Developed pyQT based application to extract haul road width and slope gradient with >90% accuracy.  
+
+📊 **Cut Volume Calculation Engine**  
+  Developed cut-fill volume calculation algorithm achieving >95% accuracy for cut volumes, integrated into in-house web application for real-time mining analytics.
+
+📐 **Pit Geometry Analysis**  
+  Implemented automated cross-section generation pipeline in AutoCAD for mining pit geometry and volume analysis, delivering 60% faster results and eliminating repetitive drafting tasks.
+
+💧 **Irrigation**  
+  Implemented algorithm to identify pipeline intersections.  
+  Implemented decision algorithm to calculate optimal structure parameters using point locations, DEM & contours.
+
+☀️ **Solar Radiance Estimation**  
+  Developed Arcpy tool in  for batch estimating solar radiance from multiple AOI.
+
+🎨 **Image Normalisation**  
+    Implemented color correction algorithm to normalise dark images.
+
+🧰 **Utility Tools**  
+    Developed multiple PyQt tools & scripts for AOI-based image filtering, GCP QA/QC validation, geotag verification, and automated processing folder organization.
 

@@ -1,41 +1,21 @@
-# Data Engineering
+# GEOAI
 
-**Project description:**  Design and implemented automated pipelines to transform , ingest and enrich raster data for efficiently managing 100+ TB's hazard data. 
+### Key Stats
 
-### Tech Stack 
-### Python
-### Postgres
-Azure Blob
-ADF
-Databricks
-Unity Catalog
-Pyspark
-Sedona
+🎯 75%   | Accuracy in object detection  
+🤖 40%   | Reduction in manual labelling   
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+[![](https://img.shields.io/badge/mining-blue)](#) [![](https://img.shields.io/badge/exposureanalysis-blue)](#)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+## Xceedance (Oct2021 - Present)
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+🎯**Object Detection**   
+      Developed ***YOLOv5***-based object detection model for rooftop objects such as ***solar panel,skylight and HVAC units***, achieving >75% accuracy in production.
 
-### 2. Assess assumptions on which statistical inference will be based
+🤖**Labelling Pipeline**  
+      Implemented ***Segment Anything Model (SAM)*** labeling pipeline, reducing manual labelling effort by 40%.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+## Aereo (June2018 - Oct2021)
 
-### 3. Support the selection of appropriate statistical tools and techniques
-
-
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-
+⛏️**Pixel-to-Polygon Automation**   
+      Implemented ***DEM & Slope based*** feature extraction algorithm to extract mine benches as polygons reducing manual extraction by 80%
