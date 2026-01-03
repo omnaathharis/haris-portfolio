@@ -32,7 +32,7 @@ Crafted algorithms that turn complex spatial problems into elegant, scalable sol
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/QGIS-white?logo=qgis)](#)  [![](https://img.shields.io/badge/ArcGIS-white?logo=arcgis)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=geopandas)](#)  [![](https://img.shields.io/badge/gdal-white?logo=gdal)](#)  [![](https://img.shields.io/badge/flask-white?logo=flask)](#)  [![](https://img.shields.io/badge/pyqt-white?logo=qt)](#)
 
 ---
-[GIS+LIDAR+Drones.....](/drone.md)
+[GIS+LIDAR+Drones](/drone.md)
 
 Distilled drone, LiDAR and GIS data into actionable geospatial products.
 
