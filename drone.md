@@ -1,9 +1,9 @@
-# Algorithm Development
+# GIS + Drone + LIDAR
 
 ### Key Stats
 
 📁 >20+ | Projects executed successfully   
-👥 >10+ | Mentored team members  
+👥 >10+ | Mentored managed team members  
 🌐 4+   | Diverse industry specific geospatial solution  
 
 
@@ -14,7 +14,7 @@
 💧 **Flood Modelling**  
     Contributed to ***2D flood modelling*** using HEC-RAS for US 
 
-🗺️ **GIS**
+🗺️ **GIS**  
     ***Contributed and mentored*** for multiple inhouse GIS/data engineering workflows. 
 
 ## Aereo (June2018 - Oct2021)
