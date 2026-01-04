@@ -44,11 +44,11 @@ Distilled drone, LiDAR and GIS data into actionable geospatial products.
 [![](https://img.shields.io/badge/QGIS-white?logo=qgis)](#)  [![](https://img.shields.io/badge/ArcGIS-white?logo=arcgis)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/ArcGIS-white?logo=arcgis)](#) [![](https://img.shields.io/badge/Agisoft_Metashape-white.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAANCAYAAAB2HjRBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGHaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8P3hwYWNrZXQgYmVnaW49J++7vycgaWQ9J1c1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCc/Pg0KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyI+PHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj48cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0idXVpZDpmYWY1YmRkNS1iYTNkLTExZGEtYWQzMS1kMzNkNzUxODJmMWIiIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj48dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPjwvcmRmOkRlc2NyaXB0aW9uPjwvcmRmOlJERj48L3g6eG1wbWV0YT4NCjw/eHBhY2tldCBlbmQ9J3cnPz4slJgLAAABGElEQVQ4T52QMU7DQBBFn9dYCciiyDHowEVaOk5BQ0UiDkDFDaBAKdIiUbqKqOhzgDRUwUpBEpDARSJs2WuvKRzb8WIhlCfNSrt/v2bmG1mWZezAcOxj7GLu3nkkSiEcr8f94lnX/4VAmTwEI5zpla41cjqYkSgFgNDFv+i7SyyzutfMjtcDYLKIcCerbYnzxzmzL0kQK/ZEbtucaV7AZ5CUhuHY5/rpg767LN8ss+onECkoM68GbKu+mUzzfSkCK7oi25xNb6qfGlIprTNUXU0JrZCL+W35oSCUCksIZKrKtI2T18usNnJwCJENqw6sOxAfAHAUH/O+lgD433ku1djF6E2ENi/hG9Ym5Xra27RCiNog93XlFz8B4Gxd8z7GbgAAAABJRU5ErkJggg==)](#) [![](https://img.shields.io/badge/PIX4D-white.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAOCAYAAAAi2ky3AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAABh2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSfvu78nIGlkPSdXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQnPz4NCjx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iPjxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyI+PHRpZmY6T3JpZW50YXRpb24+MTwvdGlmZjpPcmllbnRhdGlvbj48L3JkZjpEZXNjcmlwdGlvbj48L3JkZjpSREY+PC94OnhtcG1ldGE+DQo8P3hwYWNrZXQgZW5kPSd3Jz8+LJSYCwAAAS1JREFUOE+tUttKw0AQPbN9EKzWtlTBiEj7UxKJsX+in+KFRH+qUKFVpEgSW9AH3fFhM5OrDwUPLDPM7JydcxJgC+x8nXO9JqB6oQ3djc9MDCbgc/epdYYA4OgtYCbAGncZKPKsH9Pe2udyrY3MAICxBOIiSp71YzpI/Jt6vw1K1HYAwLC5NrZ6p7txG5ahK3rLkJkYr96D1karQL1xh2GNi+veY0We0cQCxITjl0t9zcl0cpJhROkgJqntf1S3UqLONw1EgrcMGQA6PwRjgfdRpK87eS72sgslU6Ln8V1amAqcLEIWgwWHq4CrfmmrIBI4KW6YmADmVJslqSJR5zTLcTa/yv8ZZ+ri9J7EN6nVzU+GETWIJrMpy8X5+LbR/wsNaci/1r9hMptuRfcLuN2e4dohC28AAAAASUVORK5CYII=)](#)
 
 
-</details>
+</details>  
 
 ---
 
-<details> 
+<details>  
 
     
 <summary><strong>Academic Projects</strong></summary>
@@ -57,14 +57,14 @@ Distilled drone, LiDAR and GIS data into actionable geospatial products.
 
 Hands-on ML & DL project I experimented during my one year PG program from Great Lakes & Texas McCombs
 
-</details>  
+</details>   
 
 ---
 
-<details> 
+<details>   
 
     
-<summary><strong>Personal Interest</strong></summary>
+<summary><strong>Personal Interest</strong></summary>  
 
 
 Documenting my personal learning and experiments on geospatial data,AI & big data as blogs and code
@@ -72,4 +72,4 @@ Documenting my personal learning and experiments on geospatial data,AI & big dat
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 
-</details> 
+</details>  
